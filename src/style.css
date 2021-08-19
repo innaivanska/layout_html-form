@@ -1,20 +1,8 @@
 /* styles go here */
-input {
-margin: 10px;
+.form_field {
+  margin: 10px;
 }
-fieldset {
+
+.fieldset_block {
   margin: 20px;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
